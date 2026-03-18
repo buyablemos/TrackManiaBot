@@ -22,7 +22,7 @@ Celem projektu jest stworzenie autonomicznego bota do gry **Trackmania**, który
 | Faza | Termin końcowy | Opis i cele |
 | :--- | :--- | :--- |
 | **I** | **14.04.2026** | **KM1: Setup Środowiska.** Konfiguracja `TMInterface`, połączenie Python-gra, definicja prostej przestrzeni obserwacji (pozycja, prędkość). |
-| **II** | **05.05.2026** | **KM2: Trening i Reward Function.** Implementacja algorytmu RL (np. PPO), dopracowanie funkcji nagrody, uzyskanie pierwszych pełnych przejazdów trasy. |
+| **II** | **05.05.2026** | **KM2: Trening i Reward Function.** Implementacja algorytmu RL, dopracowanie funkcji nagrody, uzyskanie pierwszych pełnych przejazdów trasy. |
 | **III** | **02.06.2026** | **KM3: Optymalizacja i Testy.** Fine-tuning modelu, próba pobicia rekordów autorów, przygotowanie końcowej dokumentacji wyników. |
 
 
