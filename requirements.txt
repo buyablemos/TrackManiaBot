@@ -1,3 +1,9 @@
-tminterface~=1.0.2
-gymnasium~=1.2.3
-tmrl~=0.7.1
+numpy
+tminterface
+torch
+torchvision
+gym
+opencv-python
+mss
+pywin32
+vgamepad

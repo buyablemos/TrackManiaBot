@@ -1,0 +1,150 @@
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [18, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [18, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [17, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [17, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [16, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [15, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [14, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [13, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [12, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [11, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [11, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [12, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [13, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [14, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [15, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [16, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [11, 1, 18]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [11, 2, 18]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [11, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [11, 2, 17]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [11, 1, 16]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [11, 2, 16]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [10, 1, 16]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [10, 2, 16]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [9, 1, 16]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 3
+Position: [9, 2, 16]
+Flags: 0b0
+
+Name: StadiumRoadMainStartLine
+Rotation: 1
+Position: [20, 3, 19]
+Flags: 0b0
+
+Name: StadiumPlatformToRoadMain
+Rotation: 3
+Position: [19, 2, 19]
+Flags: 0b0
+
+Name: StadiumPlatformToRoadMain
+Rotation: 1
+Position: [8, 2, 16]
+Flags: 0b0
+
+Name: StadiumRoadMainFinishLine
+Rotation: 1
+Position: [7, 3, 16]
+Flags: 0b0
+

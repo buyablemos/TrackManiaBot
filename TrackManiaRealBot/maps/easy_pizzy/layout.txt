@@ -1,0 +1,85 @@
+Name: StadiumRoadMainStartLine
+Rotation: 1
+Position: [21, 3, 18]
+Flags: 0b0
+
+Name: StadiumPlatformToRoadMain
+Rotation: 1
+Position: [20, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [17, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [18, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [19, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [16, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [15, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [14, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [13, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [12, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [11, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [10, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [9, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [8, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [7, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMain
+Rotation: 1
+Position: [6, 3, 18]
+Flags: 0b11
+
+Name: StadiumRoadMainFinishLine
+Rotation: 1
+Position: [5, 3, 18]
+Flags: 0b0
+

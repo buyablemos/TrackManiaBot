@@ -1,0 +1,995 @@
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [16, 2, 17]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [16, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [16, 1, 16]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [16, 1, 16]
+Flags: 0b1000000000000
+
+Name: StadiumPlatformToRoadMain
+Rotation: 0
+Position: [16, 2, 16]
+Flags: 0b0
+
+Name: StadiumRoadMainStartLine
+Rotation: 0
+Position: [16, 3, 15]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [16, 1, 18]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [16, 2, 18]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 1, 18]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 2, 18]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 1, 18]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 2, 18]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 1, 20]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 2, 20]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 1, 20]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 2, 20]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 2, 21]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 1, 21]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 1, 22]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 1, 22]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [13, 1, 22]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [12, 1, 22]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [12, 1, 23]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [12, 1, 24]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [12, 1, 24]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [13, 1, 24]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [13, 1, 24]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 1, 24]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 1, 24]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 1, 24]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 1, 24]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [16, 1, 24]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 1, 24]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 1, 24]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 1, 24]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 1, 23]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 1, 23]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 1, 22]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 1, 22]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 1, 22]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 1, 22]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 1, 22]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 1, 22]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 1, 21]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 1, 20]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 1, 20]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [20, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [21, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [21, 1, 16]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [20, 1, 16]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 1, 16]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 1, 16]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 1, 15]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 1, 14]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 1, 13]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 1, 13]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 1, 12]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 1, 12]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 1, 12]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [16, 1, 12]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [16, 1, 12]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 1, 12]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 1, 12]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 1, 11]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 1, 10]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 1, 10]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 1, 10]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [13, 1, 10]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [13, 1, 10]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [12, 1, 10]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [11, 1, 10]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [11, 1, 10]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 1, 10]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 1, 11]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 1, 11]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 1, 12]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 1, 13]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 1, 13]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 1, 14]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 1, 15]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [9, 1, 15]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [9, 1, 15]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [8, 1, 15]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [8, 1, 15]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [8, 1, 16]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [8, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [8, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [7, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [6, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [6, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [5, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [5, 1, 18]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [5, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [13, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [13, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [12, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [12, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [12, 2, 23]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [12, 2, 23]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [12, 2, 24]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [12, 2, 24]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [13, 2, 24]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 2, 24]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 2, 24]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [16, 2, 24]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [16, 2, 24]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 2, 24]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 2, 24]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 2, 24]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 2, 23]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 2, 23]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 2, 23]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 2, 22]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 2, 21]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 2, 20]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [20, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [21, 2, 17]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [21, 2, 16]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [20, 2, 16]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [19, 2, 16]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 2, 16]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 2, 15]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 2, 14]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 2, 13]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [18, 2, 12]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [5, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [5, 2, 18]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [5, 2, 17]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [6, 2, 17]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [7, 2, 17]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [8, 2, 17]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [8, 2, 16]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [8, 2, 15]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [9, 2, 15]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 2, 15]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 2, 14]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 2, 13]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 2, 12]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 2, 11]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [10, 2, 10]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [11, 2, 10]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [12, 2, 10]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [13, 2, 10]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [14, 2, 10]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 2, 10]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 2, 11]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [15, 2, 12]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [16, 2, 12]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 0
+Position: [17, 2, 12]
+Flags: 0b0
+
+Name: StadiumRoadMainFinishLine
+Rotation: 0
+Position: [5, 3, 20]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [21, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [21, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [21, 1, 20]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [21, 2, 20]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [21, 1, 21]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [22, 1, 21]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [22, 1, 21]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [23, 1, 21]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [23, 1, 21]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 1, 21]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 1, 21]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 1, 20]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 1, 19]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 1, 18]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 1, 18]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [23, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [23, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [22, 1, 17]
+Flags: 0b1000000000000
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [22, 2, 17]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [22, 2, 17]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [23, 2, 17]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 2, 17]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 2, 17]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 2, 18]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 2, 19]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 2, 20]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [24, 2, 21]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [23, 2, 21]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [22, 2, 21]
+Flags: 0b0
+
+Name: StadiumCircuitBase
+Rotation: 1
+Position: [21, 2, 21]
+Flags: 0b0
+
