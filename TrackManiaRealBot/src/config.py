@@ -5,7 +5,7 @@ class Config:
 
     class Paths:
         MAP_PREFIX: str = "maps"
-        MAP: str =   "zigzags"        # Verify that the map here is the same as the one in your .env file
+        MAP: str =   "short_horizon"        # Verify that the map here is the same as the one in your .env file
         MAP_BLOCKS_PATH: str = os.path.join(MAP_PREFIX, MAP, "ordered_blocks.json")
         MAP_LAYOUT_PATH: str = os.path.join(MAP_PREFIX, MAP, "layout.txt")
 
@@ -32,21 +32,21 @@ class Config:
 
         NUMBER_OF_ACTIONS_PER_SECOND: int = 10
         INTERVAL_BETWEEN_ACTIONS: int = (1000 // NUMBER_OF_ACTIONS_PER_SECOND) // 10 * 10
-        GAME_SPEED: int = 16
+        GAME_SPEED: int = 1
         RESTART_INTERVAL_SECONDS: int = 60 * 60 * 4
 
         CURRICULUM_LEARNING: bool = False
         UNLOCK_ALL_STATES: bool = False
 
         REWARD_PER_MS: float = -6 / 5000
-        REWARD_PER_METER_ALONG_CENTERLINE: float = 1 / 20
+        REWARD_PER_METER_ALONG_CENTERLINE: float = 4 / 20
 
         STATES_INTERVAL: int = 5000
 
         # Final bonus
         MAX_BONUS: float = 10
-        PER_SEC_RATIO: float = 1  # one-second difference gives 30% more reward
-        TIME_REF: int = 240 * 1000
+        PER_SEC_RATIO: float = 3
+        TIME_REF: int = 55 * 1000
 
     class PPO:
         LEARNING_RATE: float = 0.0003
@@ -55,9 +55,9 @@ class Config:
         EPSILON: float = 0.2
         C1: float = 1.0
         C2: float = 0.01
-        MEMORY_SIZE: int = 128
-        BATCH_SIZE: int = 32
-        EPOCHS: int = 4     # Number of times to train on a given memory batch
+        MEMORY_SIZE: int = 512
+        BATCH_SIZE: int = 64
+        EPOCHS: int = 10     # Number of times to train on a given memory batch
 
         @staticmethod
         def get_hyperparameters():

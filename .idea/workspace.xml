@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70ee3660-1efc-40ef-b094-21ab517c35a0" name="Changes" comment="trying to connect to the game/reading outputs/sending inputs">
-      <change afterPath="$PROJECT_DIR$/.idea/TrackManiaBot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="70ee3660-1efc-40ef-b094-21ab517c35a0" name="Changes" comment="attempts to build working bot">
+      <change afterPath="$PROJECT_DIR$/TrackManiaRealBot/models/PPO_3005/actor.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrackManiaRealBot/models/PPO_3005/critic.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrackManiaRealBot/models/PPO_3005/stats.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackManiaRealBot/.env" beforeDir="false" afterPath="$PROJECT_DIR$/TrackManiaRealBot/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackManiaRealBot/models/PPO_2904/01.31.80.Replay.gbx" beforeDir="false" afterPath="$PROJECT_DIR$/TrackManiaRealBot/models/PPO_2904/01.31.80.Replay.gbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackManiaRealBot/models/PPO_2904/actor.pth" beforeDir="false" afterPath="$PROJECT_DIR$/TrackManiaRealBot/models/PPO_2904/actor.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackManiaRealBot/models/PPO_2904/critic.pth" beforeDir="false" afterPath="$PROJECT_DIR$/TrackManiaRealBot/models/PPO_2904/critic.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackManiaRealBot/models/PPO_2904/stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrackManiaRealBot/models/PPO_2904/stats.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackManiaRealBot/models/latest" beforeDir="false" afterPath="$PROJECT_DIR$/TrackManiaRealBot/models/latest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackManiaRealBot/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrackManiaRealBot/src/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackManiaRealBot/src/horizon/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrackManiaRealBot/src/horizon/agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackManiaRealBot/src/map_interaction/A01-Race.Challenge.Gbx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +54,7 @@
     &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
     &quot;Python.__main__.executor&quot;: &quot;Run&quot;,
     &quot;Python.config.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.map_graph.executor&quot;: &quot;Run&quot;,
     &quot;Python.tm_client.executor&quot;: &quot;Run&quot;,
     &quot;Python.trackmania_POC.executor&quot;: &quot;Run&quot;,
@@ -59,7 +65,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dawid/PycharmProjects/TrackManiaBot/Tomate-Mozza-main/models/PPO_2904&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dawid/PycharmProjects/TrackManiaBot/TrackManiaRealBot/models/PPO_3005&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -70,6 +76,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dawid\PycharmProjects\TrackManiaBot\TrackManiaRealBot\models\PPO_3005" />
+      <recent name="C:\Users\Dawid\PycharmProjects\TrackManiaBot\TrackManiaRealBot\models" />
       <recent name="C:\Users\Dawid\PycharmProjects\TrackManiaBot\Tomate-Mozza-main\models\PPO_2904" />
       <recent name="C:\Users\Dawid\PycharmProjects\TrackManiaBot\Tomate-Mozza-main\maps\basic" />
       <recent name="C:\Users\Dawid\PycharmProjects\TrackManiaBot\Tomate-Mozza-main\src\map_interaction" />
@@ -105,6 +113,20 @@
       <workItem from="1777531915513" duration="823000" />
       <workItem from="1777533042960" duration="1299000" />
       <workItem from="1777540648280" duration="1408000" />
+      <workItem from="1777546467720" duration="2884000" />
+      <workItem from="1777573096770" duration="3103000" />
+      <workItem from="1777613917193" duration="612000" />
+      <workItem from="1777794769407" duration="2163000" />
+      <workItem from="1780132074442" duration="1767000" />
+      <workItem from="1780252542752" duration="5681000" />
+      <workItem from="1780351323161" duration="751000" />
+      <workItem from="1780381467761" duration="1307000" />
+      <workItem from="1780396992481" duration="314000" />
+      <workItem from="1780398271625" duration="3077000" />
+      <workItem from="1780421841681" duration="294000" />
+      <workItem from="1781518896169" duration="69000" />
+      <workItem from="1781519076350" duration="3856000" />
+      <workItem from="1781535892461" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="trying to connect to the game/reading outputs/sending inputs">
       <option name="closed" value="true" />
@@ -114,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775073493766</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="attempts to build working bot">
+      <option name="closed" value="true" />
+      <created>1777549921843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777549921843</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +210,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trying to connect to the game/reading outputs/sending inputs" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to connect to the game/reading outputs/sending inputs" />
+    <MESSAGE value="attempts to build working bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="attempts to build working bot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -204,6 +235,7 @@
     <SUITE FILE_PATH="coverage/TrackManiaBot$tm_client.coverage" NAME="tm_client Coverage Results" MODIFIED="1777398366924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TrackManiaBot$trackmania_easybot.coverage" NAME="trackmania_easybot Coverage Results" MODIFIED="1775069552055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TrackManiaBot$GameLaunch.coverage" NAME="GameLaunch Coverage Results" MODIFIED="1775071329714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tmai/env/utils" />
+    <SUITE FILE_PATH="coverage/TrackManiaBot$main.coverage" NAME="main Coverage Results" MODIFIED="1780132109046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TrackManiaRealBot/src" />
     <SUITE FILE_PATH="coverage/TrackManiaBot$trackmania_tmrl.coverage" NAME="trackmania_tmrl Coverage Results" MODIFIED="1775073012975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TrackManiaBot$train.coverage" NAME="train Coverage Results" MODIFIED="1777398372596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TrackManiaBot$worker.coverage" NAME="worker Coverage Results" MODIFIED="1777469032620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tomate-Mozza-main/src/horizon" />

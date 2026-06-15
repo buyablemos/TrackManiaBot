@@ -249,8 +249,8 @@ class Agent(Client, ABC):
         :time: time in milliseconds
         :return: the final bonus
         """
-        #ref = min(self.personal_best, Config.Game.TIME_REF)
-        ref = Config.Game.TIME_REF
+        ref = min(self.personal_best, Config.Game.TIME_REF)
+        #ref = Config.Game.TIME_REF
         return Config.Game.MAX_BONUS * (Config.Game.PER_SEC_RATIO ** ((ref - time) / 1000)) + 100
 
 
